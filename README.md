@@ -1,7 +1,5 @@
 # Speech-Emotion-Recognition
 
-Group members:
-
-Yonathan Yonaz Harijono
-
+Group members: <br>
+Yonathan Yonaz Harijono<br>
 Nicholas Marco Gunardi
